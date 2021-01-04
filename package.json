@@ -1,0 +1,15 @@
+{
+    "name": "enzo/shooting star",
+    "title": "Shooting Star",
+    "description": "This theme is so shiny that you'll need to wear shades!",
+    "homepage": "https://gitlab.com/e.drouyer24/shooting_star_theme",
+    "version": "0.0.1",
+    "author": "enzo <enzo.drouyer24@gmail.com> (http://your.url)",
+    "license": "MIT",
+    "theme": {
+        "file": "star.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme, shooting, star, shooting star,good theme"]
+}
